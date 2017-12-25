@@ -60,7 +60,7 @@ and directories with more complcated components, that provide their own Makefile
 Every **platform/[VENDOR]/** directory is a derived part of buildimage frontend, that defines rules and targets for a concrete vendor.  
 
 ### Build output
-**target/** is basically a build output. You can find all biuld artifacts there.  
+**target/** is basically a build output. You can find all build artifacts there.  
 
 ## Recipes and target groups
 Now let's go over a definition of recipes and target groups.  
